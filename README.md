@@ -1,20 +1,28 @@
 <h1 align="center">Hello! I'm Florent QUIJOUX</h1>
 <h3 align="center">A French developper and Project Manager</h3>
 
-I taught myself to code in PHP and Python to the point of making it my job to do so. I've always used PHP for personnal project, but I now use it professionally and taught myself JS in the process.
+<b>I taught myself to code</b> in PHP and Python to the point of making it my job to do so. 
 
-On the software development end, I started off the hard by learning C++ and Java, then moved over to Python in oder to do massive data analysis and tinkering.
+I've always used PHP, CSS and HTML for personnal project, but I now use it professionally and taught myself JS in the process to make :
+- Websites
+- Tools for my team
+- Customer-centric platforms
 
-My weapons of choice :
+On the software development end, I started off the hard by learning C++ and Java, then moved over to Python in oder to do massive data analysis and tinkering :
+- I kwon how to merge datas from stupidly different sources and formats
+- I write classes, functions and script to make that data speak
+- I use APIs, AI and magic so that incomplete data makes sense.
+
+<b>My weapons of choice :</b>
 - Python
 - PHP
 - HTML / CSS / SCSS
 - Javascript / jQuery
 
-I've already deployed production project with those frameworks :
+<b>I've already deployed production project with those frameworks :</b>
 - Symfony
 - Wordpress
 
-Back me to a corner and I can do this to ave my life :
+<b>Back me to a corner and I can do this to ave my life :</b>
 - C++
 - Java
