@@ -23,6 +23,6 @@ On the software development end, I started off the hard by learning C++ and Java
 - Symfony
 - Wordpress
 
-<b>Back me to a corner and I can do this to ave my life :</b>
+<b>Back me to a corner and I can do this to save my life :</b>
 - C++
 - Java
