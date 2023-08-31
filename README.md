@@ -1,7 +1,7 @@
-<h1 align="center">Hello! I'm Florent QUIJOUX</h1>
-<h3 align="center">A French developper and Project Manager</h3>
+<h1 align="center">Florent QUIJOUX</h1>
+<h3 align="center">French developper and Project Manager</h3>
 
-<b>I taught myself to code</b> in PHP and Python to the point of making it my job. 
+<b>I taught myself to code</b> to the point of making it my job. 
 
 I've always used PHP, CSS and HTML for personnal project, but I now use it professionally and taught myself JS in the process to make :
 - Web Apps (PHP, Symfony, Javascript)
